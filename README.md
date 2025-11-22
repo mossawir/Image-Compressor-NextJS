@@ -2,7 +2,7 @@
 
 A modern, high-performance web application for compressing and converting images locally. Built with Next.js 16 and React 19, it offers a seamless user experience with drag-and-drop functionality, real-time previews, and bulk processing capabilities.
 
-![Image Compressor Preview](public/preview.png)
+![Image Compressor Preview](https://media.licdn.com/dms/image/v2/D4D22AQFhm3bn0gKW1A/feedshare-shrink_2048_1536/B4DZqt.JONGwAw-/0/1763855341331?e=1765411200&v=beta&t=lprLaCXIU0t87-BE7t3br8AeQ4qka_IjfTrYei0FTuk)
 
 ## Features
 
