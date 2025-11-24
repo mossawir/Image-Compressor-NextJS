@@ -1,4 +1,4 @@
-# Image Compressor
+# React local Image Compressor - Similar to tinypng - Cross format converter with optimization control
 
 A modern, high-performance web application for compressing and converting images locally. Built with Next.js 16 and React 19, it offers a seamless user experience with drag-and-drop functionality, real-time previews, and bulk processing capabilities.
 
